@@ -14,7 +14,7 @@ Without any proxy, directly search neural network architectures on your target *
 
 ![](https://hanlab.mit.edu/files/proxylessNAS/figures/proxyless_nas.png)
 [Website](https://hanlab.mit.edu/projects/proxylessNAS/), [arXiv](https://arxiv.org/abs/1812.00332),
-[OpenReview.net Forum](https://openreview.net/forum?id=HylVB3AqYm)
+[OpenReview Peer Review Forum](https://openreview.net/forum?id=HylVB3AqYm)
 
 ## Requirements
 * PyTorch 0.3.1 or Tensorflow 1.5
